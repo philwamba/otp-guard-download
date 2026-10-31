@@ -8,9 +8,11 @@ OTP Guard brings everyday messaging and guardian-assisted code protection into o
 
 ## Download
 
-**Current version: 0.1.0-alpha.2 (build 2) · Early Access**
+**Current version: 0.1.0-alpha.3 (build 3) · Early Access**
 
-**[Download OTP Guard for Android](https://github.com/philwamba/otp-guard-download/releases/download/v0.1.0-alpha.2/otp-guard-v0.1.0-alpha.2.apk)**
+**[Download OTP Guard for Android](https://github.com/philwamba/otp-guard-download/releases/download/v0.1.0-alpha.3/otp-guard-v0.1.0-alpha.3.apk)**
+
+Now follows your phone’s dark mode, with Blue and Green themes and improved readability.
 
 [Release notes and all versions](https://github.com/philwamba/otp-guard-download/releases)
 
