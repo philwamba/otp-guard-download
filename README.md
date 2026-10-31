@@ -14,7 +14,7 @@ OTP Guard brings everyday messaging and guardian-assisted code protection into o
 
 [Release notes and all versions](https://github.com/philwamba/otp-guard-download/releases)
 
-Requires **Android 8.0 or later**. Download the APK on your Android device, open it, and allow installation from your browser when Android prompts you.
+Requires an **Android phone with SMS support, running Android 8.0 or later**. Download the APK on your Android device, open it, and allow installation from your browser when Android prompts you.
 
 This is an early-access testing release. Some features are incomplete or unavailable. Online guardian approval and family features are not connected in this build, and some screens show sample content. Messaging, calls and purchases still need real-device testing. Use a test phone and test messages; do not rely on this release to protect real verification codes. Please read the release notes before installing.
 
