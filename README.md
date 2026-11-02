@@ -8,11 +8,11 @@ OTP Guard brings everyday messaging and guardian-assisted code protection into o
 
 ## Download
 
-**Current version: 0.1.0-alpha.4 (build 4) · Early Access**
+**Current version: 0.1.0-alpha.5 (build 5) · Early Access**
 
-**[Download OTP Guard for Android](https://github.com/philwamba/otp-guard-download/releases/download/v0.1.0-alpha.4/otp-guard-v0.1.0-alpha.4.apk)**
+**[Download OTP Guard for Android](https://github.com/philwamba/otp-guard-download/releases/download/v0.1.0-alpha.5/otp-guard-v0.1.0-alpha.5.apk)**
 
-Choose Light, Dark or System mode, with Blue and Green themes. Includes action confirmations and an About screen with version and build details.
+Messages reappear faster when reopening the app, the Money filter now includes financial messages, and guardian management is at the top of the Guardian screen. Includes Light, Dark and System modes, action confirmations, and version details in About.
 
 [Release notes and all versions](https://github.com/philwamba/otp-guard-download/releases)
 
